@@ -8,8 +8,6 @@
         "@testing-library/user-event": "^12.1.10",
         "@types/jest": "^26.0.15",
         "@types/node": "^12.0.0",
-        "@types/react": "^17.0.0",
-        "@types/react-dom": "^17.0.0",
         "react": "^17.0.2",
         "react-dom": "^17.0.2",
         "react-scripts": "4.0.3",
@@ -40,6 +38,8 @@
         ]
     },
     "devDependencies": {
+        "@types/react": "^18.0.26",
+        "@types/react-dom": "^18.0.10",
         "husky": "^7.0.0",
         "prettier": "^2.4.1",
         "pretty-quick": "^3.1.1"
